@@ -14,3 +14,5 @@ ticket_Prices.unshift("25", "84");
 isSmelly.pop()
 
 console.log(color_Palette, ticket_Prices, isSmelly);
+
+// arrays in javascript start with an index of 0 and move up by incriments of 1. Index positions are important to understand as variables can be called by their indexing position.
